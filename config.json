@@ -2,5 +2,8 @@
     "TOKEN": "",
     "ID": "",
     "HASH": "",
-    "STRING": null
+    "STRING": null,
+    "DB_URI":"mongodb+srv://chanpreet5050:35Kl40GYt8C7MSQt@cluster0.ddu7qgm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    "DB_NAME" : "vjsavecontentbot"
+    
 }
